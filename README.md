@@ -1,2 +1,3 @@
 # Music_player
-In Basic Multimedia System Lab i implement a simple media
+<p>In Basic Multimedia System Lab i implement a simple media</p>
+![Screenshot](aaa.JPG)
