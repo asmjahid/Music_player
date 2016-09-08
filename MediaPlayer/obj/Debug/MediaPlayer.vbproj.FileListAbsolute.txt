@@ -1,0 +1,60 @@
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.xml
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.Resources.resources
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.xml
+C:\Users\Premier\AppData\Local\Temporary Projects\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.xml
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Resources.resources
+C:\Users\Premier\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.xml
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Resources.resources
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\PROGRAMMER_JAHID\Documents\Visual Studio 2012\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Music.resources
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.xml
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Music.resources
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Resources.resources
+E:\Varsity\8 TH\BMS Lab\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.GenerateResource.Cache
